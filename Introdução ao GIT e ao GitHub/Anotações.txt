@@ -1,0 +1,6 @@
+Link para dowload do Github: https://gitforwindows.org/
+
+Importância do GIT: O Git é essencial em quase todos os projetos realizados em equipes que geralmente trabalham em paralelo. Isso porque ele evita que haja conflitos entre as alterações realizadas.
+
+
+Github: https://github.com/
